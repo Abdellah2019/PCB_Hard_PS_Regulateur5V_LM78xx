@@ -1128,7 +1128,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 157.1752 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1449,7 +1449,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 87.3252 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1531,7 +1531,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 70.8152 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1780,7 +1780,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 138.1252 110.49 0)
 			(hide yes)
 			(show_name no)
